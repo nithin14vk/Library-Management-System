@@ -48,8 +48,8 @@ The Library Management System is a Java-based console application that allows us
 
 ## 7. Author Details
 
-- **Name:** YOUR NAME
-- **Roll Number:** YOUR ROLL NUMBER
+- **Name:** NITHIN V
+- **Roll Number:** 717825Y132
 
 ## 8. Conclusion
 This project demonstrates the use of Java and object-oriented programming concepts to perform basic library management operations efficiently.
